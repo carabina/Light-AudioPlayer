@@ -17,7 +17,7 @@ Music: Motto - Kana Nishino
 ###适应能力
 1. JavaScript被禁用？不用担心，浏览器中的内置播放器将代替工作
 2. 音量按钮在有系统有音量控制组件时不可用。（如iOS）
-3. 当浏览器不支持<audio>元素全部或任何提供的音频文件，将使用Quick Time, Windows Media Player来播放音频
+3. 当浏览器不支持`<audio>`元素全部或所有能提供的音频文件，将使用Quick Time, Windows Media Player来播放音频
 
 ###没有图片
 全都是CSS做的，兄弟
