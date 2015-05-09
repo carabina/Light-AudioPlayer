@@ -1,7 +1,7 @@
 # Light-AudioPlayer
 A Light AudioPlayer with HTML5, jQuery and CSS3.
 
-[DEMO](http://laplayer.sinaapp.com/)&nbsp;&nbsp;|&nbsp;&nbsp;Music: Motto - Kana Nishino
+[DEMO](http://laplayer.sinaapp.com/)&nbsp;&nbsp;|&nbsp;&nbsp;Music: See you again - Wiz Khalifa
 
 ##特点
 
